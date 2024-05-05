@@ -108,7 +108,7 @@ let settings = {
       
       
     </Swiper>
-    <div className='h-[200px] w-full md:h-[300px] bg-[#0A1B22]  mt-[50px] md:mx-[140px] flex items-center justify-center rounded-xl'>
+    <div className='h-[200px] md:h-[300px] bg-[#0A1B22]  mt-[50px] w-full lg:w-10/12 mx-auto  flex items-center justify-center rounded-xl'>
       <div className='block  md:flex justify-between items-center'>
         <div className=' '>
         <h1 className='text-[25px] md:text-[40px] text-white font-bold '>Schedule an appointment today.</h1>
